@@ -1,0 +1,30 @@
+.Task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+    width: 200px;
+    height :20px;
+    border-radius: 2px;
+    padding: 10px;
+    background: #B0E6FF;
+
+    
+    
+}
+
+.Task p{
+
+    margin: 0;
+    font-family: "fantasy";
+    font-size: 20px;
+    border-radius: 2px;
+
+}
+.Tasklist {
+    background-color: #B0E6FF;
+  
+  }
+
+
+

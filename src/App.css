@@ -1,0 +1,41 @@
+/* .App- {
+  text-align: center;
+} */
+
+.wrapper {
+  background-color: #61CBFF;
+  height: 400px;
+  width: 300px;
+}
+
+.input-wrapper {
+  display:flex;
+  justify-content: space-between;
+   width: 200px;
+   align-items: center;
+   margin: 15px;
+   padding-top: 10px;
+
+
+}
+
+.input-wrapper input {
+  border-radius: 4%;
+  border: 2;
+  border-color: rgba(119, 166, 221, 0.596);
+  width: 160px;
+  padding: 6px;
+}
+
+.input-wrapper button {
+  border: none;
+  margin-left: 10px;
+  height: 30px;
+  width: 40px;
+  color: #fff;
+  background-color: #005FFF;
+  
+  
+  
+}
+
